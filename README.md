@@ -12,6 +12,7 @@
 
 ## 友情提示
 
+mall项目部署参考blog：（https://blog.csdn.net/qq_39826987/article/details/130091931） 
 > 1. **快速体验项目**：[在线访问地址](https://www.macrozheng.com/admin/index.html) 。 （user/pwd: admin/macro123）
 > 2. **全套学习教程**：[《mall学习教程》](https://www.macrozheng.com) 。
 > 3. **视频教程（2023最新版）**：[《mall视频教程》](https://www.macrozheng.com/mall/catalog/mall_video.html) 。
